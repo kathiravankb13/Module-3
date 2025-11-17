@@ -23,9 +23,6 @@ To write a Python function to accept a string, identify a word to be replaced, a
 
 ### PROGRAM
 ```
-# Reg No-212223060120
-Name - Kaviya priya K
-
 def string_length(s):
     print(f"The length of the string '{s}' is {len(s)}")
 
